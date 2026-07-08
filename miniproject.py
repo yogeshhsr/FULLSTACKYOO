@@ -17,6 +17,7 @@ while True:
         "name":name,
         "age":age,
         ################
+        ##########
         "course":course
         }
         students.append(student)
