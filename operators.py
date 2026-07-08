@@ -101,3 +101,9 @@
 # except ValueError:
 #     print("Error: Invalid input. Please enter a valid integer.")
 #####
+try:
+    print(10/2)
+except:
+    print("error")
+else:
+    print("no error")
